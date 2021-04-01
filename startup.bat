@@ -1,0 +1,1 @@
+wscript.exe "C:/Users/czlry/Documents/invisible.vbs" "C:/Users/czlry/Documents/alarm.bat"
