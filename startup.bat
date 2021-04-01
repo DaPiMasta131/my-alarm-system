@@ -1,1 +1,1 @@
-wscript.exe "C:/Users/czlry/Documents/invisible.vbs" "C:/Users/czlry/Documents/alarm.bat"
+wscript.exe "C:/Users/<user>/Documents/invisible.vbs" "C:/Users/<user>/Documents/alarm.bat"
